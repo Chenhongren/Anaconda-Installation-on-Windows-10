@@ -20,9 +20,9 @@
             > pip install opencv_python-3*win_amd64.whl
 
 
-【NOTE】TEST Python 3.6 and OpenCV 3.2.0
+【NOTE】TEST Anaconda Python 3.6 and OpenCV 3.2.0
 
-*referance:http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html*
+*referance : http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html*
 
         import numpy as np
         import cv2
@@ -35,5 +35,6 @@
         cv2.destroyAllWindows()
 
 
-【NOTE】install GIT command
-referance -> http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/
+【NOTE】Extra-installation "GIT" command
+
+*referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
