@@ -10,4 +10,4 @@
 
     - __Step1__: Download .whl file from the URL below
     
-           http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+    http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
