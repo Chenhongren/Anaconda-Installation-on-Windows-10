@@ -10,9 +10,9 @@
 
    - __Step1__: Download .whl file from the URL below.
     
-         http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+            http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 
-      *【NOTE】contrib includes OpenCV-extra packages.For example, assuming you have Python 3.6, you might download opencv_python-3.2.0+contrib-cp36-none-win_amd64.whl*
+            *【NOTE】contrib includes OpenCV-extra packages.For example, assuming you have Python 3.6, you might download opencv_python-3.2.0+contrib-cp36-none-win_amd64.whl*
         
         
     - __Step2__: Input Cmmand below to Anaconda Prompt
