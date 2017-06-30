@@ -24,12 +24,12 @@
 
 *referance : http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html*
 
+        #Import Package including Numpy and OpenCV
         import numpy as np
         import cv2
-
         # Load an color image in grayscale
         img = cv2.imread('messi5.jpg',0)
-
+        #Show Image
         cv2.imshow('image',img)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
