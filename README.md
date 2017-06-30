@@ -34,8 +34,7 @@
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
-
-【NOTE】Extra-installation 
+# Extra-installation 
 
    - __1__: "GIT" command
 
@@ -60,3 +59,9 @@
    - __6__: Python Package - __TENSORFLOW__
     
             > pip install tensorflow
+
+# Keras Usage
+
+    > git clone https://github.com/fchollet/keras.git
+    --change floder direction to keras/examlpe
+    > python mnist_mlp.py
