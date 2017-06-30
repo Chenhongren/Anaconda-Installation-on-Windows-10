@@ -1,5 +1,5 @@
 # Anaconda-Installation-on-Windows-10
-Anaconda Python 
+ *Anaconda Python*
 
-Download
-----
+# Download
+- __Anaconda__:
