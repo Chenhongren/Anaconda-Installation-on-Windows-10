@@ -39,24 +39,24 @@
 
    - __1__: "GIT" command
 
-    *referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
+        *referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
 
-   - __2__: Python Package - __numpy__
+   - __2__: Python Package - __NUMPY__
    
             > pip install numpy
         
-   - __3__: Python Package - __scipy__
+   - __3__: Python Package - __SCIPY__
 
             > pip install scipy
         
-   - __4__: Python Package - __theano__
+   - __4__: Python Package - __THEANO__
 
             > pip install theano
         
-   - __5__: Python Package - __keras__
+   - __5__: Python Package - __Keras__
 
             > pip install keras
         
-   - __6__: Python Package - __tensorflow__
+   - __6__: Python Package - __TENSORFLOW__
     
             > pip install tensorflow
