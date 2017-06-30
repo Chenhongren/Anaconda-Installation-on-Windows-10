@@ -35,6 +35,28 @@
         cv2.destroyAllWindows()
 
 
-【NOTE】Extra-installation "GIT" command
+【NOTE】Extra-installation 
 
-*referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
+   - __1__: "GIT" command
+
+    *referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
+
+   - __2__: numpy
+   
+        pip install numpy
+        
+   - __3__: scipy
+
+        pip install scipy
+        
+   - __4__: theano
+
+        pip install theano
+        
+   - __5__: keras
+
+        pip install keras
+        
+   - __6__: tensorflow
+    
+        pip install tensorflow
