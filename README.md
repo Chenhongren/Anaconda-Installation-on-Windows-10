@@ -8,7 +8,7 @@
     
 - __OpenCV__:
 
-  - __Step1__: Download .whl file from the URL below.
+   - __Step1__: Download .whl file from the URL below.
     
          http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 
