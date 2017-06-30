@@ -19,7 +19,6 @@
  
             > pip install opencv_python-3*win_amd64.whl
 
-
 【NOTE】TEST Anaconda Python 3.6 and OpenCV 3.2.0
 
 *referance : http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html*
