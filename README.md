@@ -8,7 +8,7 @@
     
 - __OpenCV__:
 
-    - __Step1__: Download .whl file from the URL below.
+  - __Step1__: Download .whl file from the URL below.
     
          http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 
@@ -16,7 +16,7 @@
         *For example, assuming you have Python 3.6, you might download opencv_python-3.2.0+contrib-cp36-none-win_amd64.whl*
         
         
-    - __Step2__: Input Cmmand below to Anaconda Prompt
+  - __Step2__: Input Cmmand below to Anaconda Prompt
  
             > pip install opencv_python-3*win_amd64.whl
 
