@@ -2,4 +2,5 @@
  *Anaconda Python*
 
 # Download
-- __Anaconda__:
+- __Anaconda__:​
+    https://www.scivision.co/install-opencv-python-windows/
