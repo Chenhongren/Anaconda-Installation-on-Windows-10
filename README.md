@@ -16,7 +16,7 @@
    
    - __Step2__: Input Cmmand below to Anaconda Prompt
  
-                `$ pip install opencv_python-3*win_amd64.whl`
+                $ pip install opencv_python-3*win_amd64.whl
 
 【NOTE】TEST Anaconda Python 3.6 and OpenCV 3.2.0
 
