@@ -68,7 +68,7 @@
             
    - __Step2__: change floder direction to keras/examlpe
             
-            > cd 【keras_project_dircetion】/keras/example
+            > cd 【keras_project_dircetion】/keras/example
             
    - __Step3__: Run 
             
