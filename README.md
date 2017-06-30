@@ -63,12 +63,14 @@
 # Keras Usage
 
    - __Step1__: Git keras project from GITHUB
-        > git clone https://github.com/fchollet/keras.git
-    
+            
+            > git clone https://github.com/fchollet/keras.git
+            
    - __Step2__: change floder direction to keras/examlpe
-   
-        > cd 【keras_project_dircetion】/keras/example
-        
+            
+            > cd 【keras_project_dircetion】/keras/example
+            
    - __Step3__: Run 
-   
-        > python mnist_mlp.py
+            
+            > python mnist_mlp.py
+            
