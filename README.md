@@ -14,4 +14,4 @@
 
         *【NOTE】contrib includes OpenCV-extra packages.*
         
-        *For example, assuming you have Python 3.6, you might download opencv_python-3.2.0+contrib-cp36-none-win_amd64.whl*
+         *For example, assuming you have Python 3.6, you might download opencv_python-3.2.0+contrib-cp36-none-win_amd64.whl*
