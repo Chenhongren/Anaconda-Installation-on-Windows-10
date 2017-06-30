@@ -41,22 +41,22 @@
 
     *referance : http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/*
 
-   - __2__: Python Package - numpy
+   - __2__: Python Package - __numpy__
    
             > pip install numpy
         
-   - __3__: Python Package - scipy
+   - __3__: Python Package - __scipy__
 
             > pip install scipy
         
-   - __4__: Python Package - theano
+   - __4__: Python Package - __theano__
 
             > pip install theano
         
-   - __5__: Python Package - keras
+   - __5__: Python Package - __keras__
 
             > pip install keras
         
-   - __6__: Python Package - tensorflow
+   - __6__: Python Package - __tensorflow__
     
             > pip install tensorflow
